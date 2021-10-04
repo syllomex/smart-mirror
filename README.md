@@ -78,3 +78,9 @@ _Pesquisar mais sobre WebSocket_
 **MongoDB (Banco de Dados)**<br>
 Para utilizar a plataforma MongoDB Atlas (banco de dados na nuvem com plano gratuito).<br>
 _Pesquisar mais sobre o banco de dados não relacionais (MongoDB é um deles)_
+
+**Google APIs**<br>
+Utilizado para listagem de e-mails (Gmail) e compromissos da agenda (Google Calendar).
+
+**OpenWeather**<br>
+Utilizado para obter dados do clima.
