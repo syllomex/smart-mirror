@@ -1,0 +1,9 @@
+[submodule "api-smartmirror"]
+	path = api-smartmirror
+	url = git@github.com:syllomex/api-smartmirror
+[submodule "app-smartmirror"]
+	path = app-smartmirror
+	url = git@github.com:syllomex/app-smartmirror
+[submodule "web-smartmirror"]
+	path = web-smartmirror
+	url = git@github.com:syllomex/web-smartmirror
